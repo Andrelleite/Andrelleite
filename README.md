@@ -20,7 +20,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 🔭 I’m currently working on a cool Distributed Systems project 
 
 
-[<img src='https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png' alt='github' height='40'>](https://github.com/andrelleite)  [<img src='https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/andré-loras-leite-54b721210/)  
+[<img src='https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png' alt='github' height='40'>](https://github.com/andrelleite)  [<img src='https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andré-loras-leite-54b721210/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelleite)](https://github.com/anuraghazra/github-readme-stats)
 
