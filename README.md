@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ### Hello there! 
 ### Great to see you here 
 #### Just a Cyber Security Engineer with a twist
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 - 🔭 I’m currently working on a cool Distributed Systems project 
 
