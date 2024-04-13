@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 ### Hello there! 
 ### Great to see you here 
 #### Just a Cyber Security Engineer with a twist
-
-- 🔭 I’m currently working on a cool Distributed Systems project 
-
-
-[<img src='https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png' alt='github' height='40'>](https://github.com/andrelleite)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/andré-loras-leite-54b721210/)  
