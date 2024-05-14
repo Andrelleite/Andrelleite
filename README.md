@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 ### Hello there! 
 ### Great to see you here 
-#### Just a Cyber Security Engineer with a twist
