@@ -17,5 +17,3 @@ Welcome to my corner of the digital realm.
 <code>QWx3YXlzIHJlbWVtYmVyOiB3aXRoIGdyZWF0IHBvd2VyIGNvbWVzIGdyZWF0IHJlc3BvbnNpYmlsaXR5Lg==</code>
 </div>
 
-
-..a..
