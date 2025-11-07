@@ -17,3 +17,4 @@ Welcome to my corner of the digital realm.
 <code>QWx3YXlzIHJlbWVtYmVyOiB3aXRoIGdyZWF0IHBvd2VyIGNvbWVzIGdyZWF0IHJlc3BvbnNpYmlsaXR5Lg==</code>
 </div>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kalinka420.png" alt="Your Image Badge" />
