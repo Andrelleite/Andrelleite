@@ -1,29 +1,39 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Andr%C3%A9%20Loras%20Leite&fontSize=40&fontAlignY=40&desc=Cyber%20Security%20%26%20AppSec%20Research&descAlignY=60&descSize=20&fontColor=ffffff"/>
+
+  <br>
+
   <a href="https://andrelleite.github.io/k42/">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Kalinka420.png" alt="TryHackMe Badge" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=700&lines=Initializing+connection+to+k42...;Loading+Security+Modules...;Access+Portfolio+Below" alt="Typing SVG" />
   </a>
 
-  # André Loras Leite
+  <br>
 
   <a href="https://andrelleite.github.io/k42/">
-    <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-k42-black?style=for-the-badge&logo=github&logoColor=white" alt="Visit k42" />
+    <img src="https://img.shields.io/badge/ENTER_k42_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/K8s-gray?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-gray?style=flat-square&logo=microsoftazure&logoColor=white" />
 
-  <br>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <br><br>
+
+  <a href="https://tryhackme.com/p/Kalinka420">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Kalinka420.png" alt="TryHackMe Badge" width="200" />
+  </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 
 </div>
