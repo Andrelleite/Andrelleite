@@ -1,7 +1,4 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Andr%C3%A9%20Loras%20Leite&fontSize=40&fontAlignY=40&desc=Cyber%20Security%20%26%20AppSec%20Research&descAlignY=60&descSize=20&fontColor=ffffff"/>
-
   <br>
 
   <a href="https://andrelleite.github.io/k42/">
